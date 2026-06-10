@@ -1,5 +1,5 @@
 # SDET Foundations
-
+# SDET Foundations — conflict branch version
 Practice scripts from Phase 1 of my SDET learning roadmap.
 
 ## Contents
